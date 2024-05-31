@@ -1,0 +1,45 @@
+header{
+    background-color: #f0f0f0;
+    padding:15px;
+    text-align: center;
+}
+.profile-picture{
+    width:200px;
+    height:200px;
+    background-image: url('Nitish_Favicon.jpeg');
+    background-size: cover;
+    border-radius:50%;
+    background-color: #ccc;
+    margin:10px auto;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0px;
+}
+section{
+    max-width:50%;
+    padding:20px;
+    margin:20px auto;
+}
+ul{
+    list-style-type:none;
+    padding:0px;
+}
+table{
+    border-collapse: collapse;
+    width:100%;
+}
+table th{
+    background-color: blue;
+    color:white;
+    border:1px solid black;
+    padding-right:5px;
+}
+table tr td{
+    border:1px solid black;
+    padding-left:25px;
+}
+#Contact tr td{
+    background-color: blueviolet;
+    color:white
+}
